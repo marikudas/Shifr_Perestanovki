@@ -1,0 +1,18 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe.config
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csprojResolveAssemblyReference.cache
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Form1.resources
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.Properties.Resources.resources
+D:\Shit\Suсks\Безпека програм та даних\Лаба №10\TranspositionCipher\TranspositionCipher\obj\Debug\TranspositionCipher.csproj.GenerateResource.Cache
